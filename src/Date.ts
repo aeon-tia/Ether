@@ -28,7 +28,7 @@ function getDate(): CurrDate {
     .toLocaleTimeString("en-US", {
       hour: "2-digit",
       minute: "2-digit",
-      hour12: true,
+      hour12: false,
       hourCycle: "h23",
     })
     .replace(/AM|PM/, "")
