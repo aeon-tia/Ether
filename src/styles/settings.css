@@ -78,7 +78,7 @@ dialog::backdrop {
 
 .settings-title {
   margin: 0 auto 1.5em auto;
-  font-family: "Fira Mono", monospace;
+  font-family: "Cronos Pro", "Fira Mono", monospace;
   color: rgb(var(--main-accent));
 }
 
