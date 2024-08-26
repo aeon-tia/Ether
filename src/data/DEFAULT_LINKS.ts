@@ -5,54 +5,54 @@ const SOCIAL_LINKS: LinkGroup = {
   title: "Socials",
   links: [
     {
-      "display text": "Instagram",
-      href: "https://www.instagram.com/",
-    },
-    {
       "display text": "Twitter",
       href: "https://twitter.com/",
+    },
+    {
+      "display text": "Youtube",
+      href: "https://www.youtube.com/feed/subscriptions",
+    },
+    {
+      "display text": "Spotify",
+      href: "https://open.spotify.com/collection/playlists",
+    },
+    {
+      "display text": "Blimps",
+      href: "http://blimps.xyz/",
+    },
+    {
+      "display text": "Reddit",
+      href: "https://old.reddit.com/",
     },
     {
       "display text": EMPTY_ITEM,
       href: "",
     },
-    {
-      "display text": "Reddit",
-      href: "https://www.reddit.com/",
-    },
-    {
-      "display text": "Discord",
-      href: "https://www.discord.com/",
-    },
-    {
-      "display text": "Gmail",
-      href: "https://www.gmail.com/",
-    },
   ],
 };
 
-const REDDIT_LINKS: LinkGroup = {
-  title: "Reddit",
+const FFXIV_LINKS: LinkGroup = {
+  title: "FFXIV",
   links: [
     {
-      "display text": "UnixPorn",
-      href: "https://www.reddit.com/r/unixporn/",
+      "display text": "Garland DB",
+      href: "https://www.garlandtools.org/db/",
     },
     {
-      "display text": "Startpages",
-      href: "https://www.reddit.com/r/startpages/",
+      "display text": "Teamcraft",
+      href: "https://ffxivteamcraft.com/search",
     },
     {
-      "display text": "NBA",
-      href: "https://www.reddit.com/r/nba/",
+      "display text": "Faloop",
+      href: "https://faloop.app/",
     },
     {
-      "display text": "Neovim",
-      href: "https://www.reddit.com/r/neovim/",
+      "display text": "Etro",
+      href: "https://etro.gg/gearset",
     },
     {
-      "display text": "Rust",
-      href: "https://www.reddit.com/r/rust/",
+      "display text": "Eureka",
+      href: "https://ffxiv-eureka.com/",
     },
     {
       "display text": EMPTY_ITEM,
@@ -62,53 +62,53 @@ const REDDIT_LINKS: LinkGroup = {
 };
 
 const TOOLS_LINKS: LinkGroup = {
-  title: "Tools",
+  title: "Work",
   links: [
     {
       "display text": "Github",
       href: "https://github.com/",
     },
     {
-      "display text": "Figma",
-      href: "https://www.figma.com/",
+      "display text": "Office 365",
+      href: "https://www.office.com/",
     },
     {
-      "display text": "ChatGPT",
-      href: "https://chat.openai.com/",
+      "display text": "Gdrive",
+      href: "https://drive.google.com/drive/my-drive",
     },
     {
-      "display text": "Coolors",
-      href: "https://www.coolors.co/",
+      "display text": "Pomodoro",
+      href: "https://pomofocus.io/",
     },
     {
-      "display text": "Patterns",
-      href: "https://www.heropatterns.com/",
+      "display text": "Overleaf",
+      href: "https://www.overleaf.com/login",
     },
     {
-      "display text": "Everforest",
-      href: "https://github.com/sainnhe/everforest",
+      "display text": EMPTY_ITEM,
+      href: "",
     },
   ],
 };
 
-const FAVORITES_LINKS: LinkGroup = {
-  title: "Favorites",
+const SHOPPING_LINKS: LinkGroup = {
+  title: "Shop",
   links: [
     {
-      "display text": "lh:3000",
-      href: "http://localhost:3000",
+      "display text": "Amazon",
+      href: "https://www.amazon.com/",
     },
     {
-      "display text": "lh:8080",
-      href: "http://localhost:8080",
+      "display text": "Jetpens",
+      href: "https://www.jetpens.com/",
     },
     {
-      "display text": "lh:5173",
-      href: "http://localhost:5173",
+      "display text": "MKB",
+      href: "https://mechanicalkeyboards.com/",
     },
     {
-      "display text": EMPTY_ITEM,
-      href: "",
+      "display text": "Wirecutter",
+      href: "https://www.nytimes.com/wirecutter/",
     },
     {
       "display text": EMPTY_ITEM,
@@ -120,16 +120,16 @@ const FAVORITES_LINKS: LinkGroup = {
     },
   ],
 };
-const MEDIA_LINKS: LinkGroup = {
-  title: "Media",
+const FAVORITES_LINKS: LinkGroup = {
+  title: "Favorites",
   links: [
     {
-      "display text": "Youtube",
-      href: "http://www.youtube.com",
+      "display text": "Weather",
+      href: "https://weather.com/en-NA/weather/today/l/47.54,-122.30",
     },
     {
-      "display text": "YT Music",
-      href: "https://music.youtube.com",
+      "display text": EMPTY_ITEM,
+      href: "",
     },
     {
       "display text": EMPTY_ITEM,
@@ -152,8 +152,8 @@ const MEDIA_LINKS: LinkGroup = {
 
 export const DEFAULT_LINKS: AllLinkGroups = [
   SOCIAL_LINKS,
-  REDDIT_LINKS,
+  FFXIV_LINKS,
   TOOLS_LINKS,
-  MEDIA_LINKS,
+  SHOPPING_LINKS,
   FAVORITES_LINKS,
 ];
