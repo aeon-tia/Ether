@@ -11,7 +11,7 @@ const ayu_mirage = {
     "panel opacity": 0.5,
   },
   image: {
-    image: `url(${import.meta.env.BASE_URL}astero-20210517a.jpg)`,
+    image: `url(${import.meta.env.BASE_URL}ffxiv-av.png)`,
     "position x": "50%",
     "position y": "50%",
   },
