@@ -125,7 +125,7 @@ const FAVORITES_LINKS: LinkGroup = {
   links: [
     {
       "display text": "Weather",
-      href: "https://weather.com/en-NA/weather/today/l/47.54,-122.30",
+      href: "https://www.wunderground.com/forecast/KBFI",
     },
     {
       "display text": EMPTY_ITEM,
