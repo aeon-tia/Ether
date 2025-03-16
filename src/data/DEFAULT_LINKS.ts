@@ -5,8 +5,8 @@ const SOCIAL_LINKS: LinkGroup = {
   title: "Socials",
   links: [
     {
-      "display text": "Twitter",
-      href: "https://twitter.com/",
+      "display text": "Bsky",
+      href: "https://bsky.app/",
     },
     {
       "display text": "Youtube",
