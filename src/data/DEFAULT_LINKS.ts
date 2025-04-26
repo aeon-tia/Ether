@@ -39,16 +39,16 @@ const FFXIV_LINKS: LinkGroup = {
       href: "https://www.garlandtools.org/db/",
     },
     {
-      "display text": "Teamcraft",
-      href: "https://ffxivteamcraft.com/search",
-    },
-    {
       "display text": "Faloop",
       href: "https://faloop.app/",
     },
     {
-      "display text": "Etro",
-      href: "https://etro.gg/gearset",
+      "display text": "Teamcraft",
+      href: "https://ffxivteamcraft.com/search",
+    },
+    {
+      "display text": "Raphael",
+      href: "https://www.raphael-xiv.com/",
     },
     {
       "display text": "Eureka",
@@ -128,8 +128,8 @@ const FAVORITES_LINKS: LinkGroup = {
       href: "https://weather.com/en-NA/weather/today/l/47.604,-122.33",
     },
     {
-      "display text": EMPTY_ITEM,
-      href: "",
+      "display text": "Windy",
+      href: "https://www.windy.com/47.538/-122.287/hrrrConus?hrrrConus,47.117,-122.289,8,p:cities",
     },
     {
       "display text": EMPTY_ITEM,
