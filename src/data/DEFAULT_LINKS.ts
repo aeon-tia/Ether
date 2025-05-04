@@ -77,8 +77,8 @@ const TOOLS_LINKS: LinkGroup = {
       href: "https://drive.google.com/drive/my-drive",
     },
     {
-      "display text": "Pomodoro",
-      href: "https://pomofocus.io/",
+      "display text": "GitHub",
+      href: "https://github.com",
     },
     {
       "display text": "Overleaf",
