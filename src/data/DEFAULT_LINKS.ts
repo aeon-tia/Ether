@@ -125,15 +125,15 @@ const FAVORITES_LINKS: LinkGroup = {
   links: [
     {
       "display text": "Weather",
-      href: "https://weather.com/en-NA/weather/today/l/47.604,-122.33",
+      href: "https://weather.com/en-NA/weather/today/l/47.55,-122.3",
+    },
+    {
+      "display text": "NWS",
+      href: "https://forecast.weather.gov/MapClick.php?lat=47.55&lon=-122.3",
     },
     {
       "display text": "Windy",
-      href: "https://www.windy.com/47.538/-122.287/hrrrConus?hrrrConus,47.117,-122.289,8,p:cities",
-    },
-    {
-      "display text": EMPTY_ITEM,
-      href: "",
+      href: "https://www.windy.com/47.55/-122.3/hrrrConus?hrrrConus,47.55,-122.3,8,p:cities",
     },
     {
       "display text": EMPTY_ITEM,
