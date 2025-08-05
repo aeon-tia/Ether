@@ -69,16 +69,16 @@ const TOOLS_LINKS: LinkGroup = {
       href: "https://github.com/",
     },
     {
-      "display text": "Office 365",
-      href: "https://www.office.com/",
+      "display text": "Proton mail",
+      href: "https://mail.proton.me",
     },
     {
-      "display text": "Gdrive",
-      href: "https://drive.google.com/drive/my-drive",
+      "display text": "Proton drive",
+      href: "https://drive.proton.me",
     },
     {
-      "display text": "GitHub",
-      href: "https://github.com",
+      "display text": "Gmail",
+      href: "https://mail.google.com",
     },
     {
       "display text": "Overleaf",
