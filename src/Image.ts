@@ -23,7 +23,7 @@ export function getImage(): ImageState {
   const lsItem = localStorage.getItem(IMAGE_LS_KEY);
   if (lsItem) return JSON.parse(lsItem);
 
-  const imageState = THEMES.everforest_dark.image;
+  const imageState = THEMES.ayu_mirage.image;
   localStorage.setItem(IMAGE_LS_KEY, JSON.stringify(imageState));
   return imageState;
 }
