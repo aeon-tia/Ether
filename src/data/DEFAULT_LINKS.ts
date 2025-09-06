@@ -121,7 +121,7 @@ const SHOPPING_LINKS: LinkGroup = {
   ],
 };
 const FAVORITES_LINKS: LinkGroup = {
-  title: "Favorites",
+  title: "Info",
   links: [
     {
       "display text": "Weather",
@@ -136,8 +136,8 @@ const FAVORITES_LINKS: LinkGroup = {
       href: "https://www.windy.com/47.55/-122.3/hrrrConus?hrrrConus,47.55,-122.3,8,p:cities",
     },
     {
-      "display text": EMPTY_ITEM,
-      href: "",
+      "display text": "PurpleAir",
+      href: "https://map.purpleair.com/air-quality-standards-us-epa-aqi?opt=%2F1%2Flp%2Fa10%2Fp604800%2FcC0#10.05/47.55/-122.3",
     },
     {
       "display text": EMPTY_ITEM,
