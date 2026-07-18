@@ -1,4 +1,6 @@
 :root {
+  --main-font: "Maple Mono", monospace;
+  --header-font: "Maple Mono", monospace;
   --main-bg-color: 45, 53, 59;
   --main-fg-color: 211, 198, 170;
   --main-accent: 138, 44, 32;
@@ -24,8 +26,8 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100%;
-  font-size: 12px;
-  font-family: "Maple Mono", monospace;
+  font-size: 11px;
+  font-family: var(--main-font);
   overflow: hidden;
 }
 @media screen and (min-width: 996px) {
@@ -41,7 +43,7 @@ body {
 
 h2,
 h3 {
-  font-family: "Maple Mono", sans-serif;
+  font-family: var(--main-font);
 }
 
 ul {
