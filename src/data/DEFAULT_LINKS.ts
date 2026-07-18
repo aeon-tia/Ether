@@ -13,8 +13,8 @@ const SOCIAL_LINKS: LinkGroup = {
       href: "https://www.youtube.com/feed/subscriptions",
     },
     {
-      "display text": "Spotify",
-      href: "https://open.spotify.com/collection/playlists",
+      "display text": "YT Music",
+      href: "https://music.youtube.com/",
     },
     {
       "display text": "Blimps",
@@ -125,7 +125,7 @@ const FAVORITES_LINKS: LinkGroup = {
   links: [
     {
       "display text": "Weather",
-      href: "https://www.wunderground.com/forecast/KBFI",
+      href: "https://weather.com/en-NA/weather/today/l/e2c13d37405f779fe391f359413dac87134c045d3c8a6480fef46ad51a78f9ae",
     },
     {
       "display text": "NWS",
