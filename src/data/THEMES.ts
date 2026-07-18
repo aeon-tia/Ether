@@ -1,3 +1,22 @@
+const aeon = {
+  theme: {
+    "bg color": "#1f2430",
+    "fg color": "#cccac2",
+    "main accent": "#a142f0",
+    "accent 1": "#5ccfe6",
+    "accent 2": "#ffad66",
+    "accent 3": "#d5ff80",
+    "accent 4": "#f28779",
+    "accent 5": "#dfbfff",
+    "panel opacity": 0.5,
+  },
+  image: {
+    image: `url(${import.meta.env.BASE_URL}samurai.jpg)`,
+    "position x": "50%",
+    "position y": "50%",
+  },
+};
+
 const ayu_mirage = {
   theme: {
     "bg color": "#1f2430",
