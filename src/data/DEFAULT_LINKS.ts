@@ -69,11 +69,11 @@ const TOOLS_LINKS: LinkGroup = {
       href: "https://github.com/",
     },
     {
-      "display text": "Proton mail",
+      "display text": "ProtonMail",
       href: "https://mail.proton.me",
     },
     {
-      "display text": "Proton drive",
+      "display text": "ProtonDrive",
       href: "https://drive.proton.me",
     },
     {
