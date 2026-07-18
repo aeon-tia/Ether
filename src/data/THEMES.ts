@@ -151,6 +151,7 @@ const dracula = {
 };
 
 export default {
+  aeon,
   ayu_mirage,
   everforest_dark,
   catppuccin,
