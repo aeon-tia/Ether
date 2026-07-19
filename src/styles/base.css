@@ -1,6 +1,6 @@
 :root {
-  --main-font: "Fira Sans", monospace;
-  --date-font: "Fira Sans", monospace;
+  --main-font: "Fira Code", monospace;
+  --date-font: "Fira Code", monospace;
   --main-bg-color: 45, 53, 59;
   --main-fg-color: 211, 198, 170;
   --main-accent: 138, 44, 32;
@@ -34,13 +34,11 @@ body {
 @media screen and (min-width: 996px) {
   body {
     font-size: 12px;
-    font-weight: normal;
   }
 }
 @media screen and (min-width: 1200px) {
   body {
     font-size: 16px;
-    font-weight: normal;
   }
 }
 
