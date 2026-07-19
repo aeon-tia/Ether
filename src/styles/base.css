@@ -28,11 +28,12 @@ body {
   min-height: 100%;
   font-size: 12px;
   font-family: var(--main-font);
+  font-weight: 400;
   overflow: hidden;
 }
 @media screen and (min-width: 996px) {
   body {
-    font-size: 13px;
+    font-size: 12px;
   }
 }
 @media screen and (min-width: 1200px) {
