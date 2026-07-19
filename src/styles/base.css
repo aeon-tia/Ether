@@ -1,6 +1,6 @@
 :root {
-  --main-font: "Reddit Sans", monospace;
-  --header-font: "Reddit Sans", monospace;
+  --main-font: "Fira Sans", monospace;
+  --header-font: "Fira Sans", monospace;
   --main-bg-color: 45, 53, 59;
   --main-fg-color: 211, 198, 170;
   --main-accent: 138, 44, 32;
