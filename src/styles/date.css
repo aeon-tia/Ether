@@ -1,7 +1,7 @@
 .date-wrapper {
   text-transform: uppercase;
   font-family: var(--date-font), sans-serif;
-  font-weight: 900;
+  font-weight: bold;
   font-size: min(32.25px, 1.7vw);
   position: relative;
   width: max-content;
