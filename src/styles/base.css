@@ -26,19 +26,19 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100%;
-  font-size: 13px;
+  font-size: 14px;
   font-family: var(--main-font);
   font-weight: normal;
   overflow: hidden;
 }
 @media screen and (min-width: 996px) {
   body {
-    font-size: 13px;
+    font-size: 14px;
   }
 }
 @media screen and (min-width: 1200px) {
   body {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
 
