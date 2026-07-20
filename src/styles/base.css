@@ -1,6 +1,6 @@
 :root {
-  --main-font: "Fira Sans", monospace;
-  --date-font: "Fira Sans", monospace;
+  --main-font: "Cronos Pro", monospace;
+  --date-font: "Cronos Pro", monospace;
   --main-bg-color: 45, 53, 59;
   --main-fg-color: 211, 198, 170;
   --main-accent: 138, 44, 32;
@@ -26,14 +26,14 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100%;
-  font-size: 12px;
+  font-size: 13px;
   font-family: var(--main-font);
   font-weight: normal;
   overflow: hidden;
 }
 @media screen and (min-width: 996px) {
   body {
-    font-size: 12px;
+    font-size: 13px;
   }
 }
 @media screen and (min-width: 1200px) {
