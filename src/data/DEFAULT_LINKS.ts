@@ -125,7 +125,7 @@ const FAVORITES_LINKS: LinkGroup = {
   links: [
     {
       "display text": "Weather",
-      href: "https://weather.com/en-NA/weather/today/l/e2c13d37405f779fe391f359413dac87134c045d3c8a6480fef46ad51a78f9ae",
+      href: "https://weather.com/en-IE/weather/today/l/e2c13d37405f779fe391f359413dac87134c045d3c8a6480fef46ad51a78f9ae",
     },
     {
       "display text": "NWS",
